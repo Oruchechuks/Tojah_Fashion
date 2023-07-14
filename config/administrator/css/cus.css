@@ -1,0 +1,47 @@
+.form-control{
+        border: 1px solid #c4d0dc !Important;
+            box-shadow: none !Important;
+}
+
+label{
+        font-size: 15px !Important;
+}
+
+
+.table-bordered thead th, .table-bordered thead td {
+    border-bottom-width: 1px !important;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 1px solid #c0caca !important;
+}
+.table-bordered th, .table-bordered td {
+    border: 1px solid #c0caca !important;
+}
+
+.table.table-bordered thead th {
+    border-top: 1px solid #c0caca !important;
+    font-weight: 600 !important;
+}
+
+.badge-pill {
+    padding-right: .9em !Important;
+    padding-left: .9em !Important;
+    border-radius: 10rem !Important;
+    border: 1px #bfbfbf solid !Important;
+}
+
+b, strong {
+    font-weight: 700 !important;
+}
+
+::-webkit-scrollbar {
+    width: 4px;
+}
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
